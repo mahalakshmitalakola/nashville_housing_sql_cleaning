@@ -1,0 +1,24 @@
+# SQL Server Management Studio
+*.suo
+*.user
+.vs/
+
+# Azure Data Studio / DBeaver workspace files
+*.dbeaver-workspace
+.dbeaver/
+*.dbp
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Environment / connection config (never commit credentials)
+*.env
+connection.json
+config.json
